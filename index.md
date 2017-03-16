@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# CompChemKitchen prpage
+# CompChemKitchen project page
 
 {% for repository in site.github.public_repositories %}
   * {{ repository.name }}
